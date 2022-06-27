@@ -2,9 +2,12 @@
 
 ## Flutter?
 - SDK(mesin)
-    Compile code ke mesin nativ masing-masing platform
+
+Compile code ke mesin nativ masing-masing platform
+
 - Framework Library
-    Menggunakan fungsi-fungsi / package yang disediakan flutter
+
+Menggunakan fungsi-fungsi / package yang disediakan flutter
 
 Flutter menggunakan bahasa pemrograman Dart (https://dart.dev)
 
