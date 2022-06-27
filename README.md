@@ -18,7 +18,7 @@ Flutter menggunakan bahasa pemrograman Dart (https://dart.dev)
 ```
 git clone https://github.com/flutter/flutter.git -b stable
 ```
-- Tambahkan value flutter\bin pada path User Environment Variables
+- Tambahkan value `flutter\bin` pada path User Environment Variables
 - Buka Terminal dan jalankan
 ```
 flutter doctor
